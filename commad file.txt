@@ -8,3 +8,4 @@ git push -u origin master - to update the merging in github as well.
 git branch -d a - to delete branch 'a' from local.
 git push origin --delete a - to delete branch 'a' from github.
 git commit -m 'comments' - to commit a staged file with comments.
+git pull origin master - for pulling changes to local files that are commited in github.
